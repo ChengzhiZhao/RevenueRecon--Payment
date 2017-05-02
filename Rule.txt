@@ -1,0 +1,10 @@
+RuleGroupID|RuleID|TypeID|FieldName
+1|1|1|InvoiceNumber
+1|1|2|InvoiceNumber
+1|1|3|=
+1|2|1|CustomerName
+1|2|2|CustomerName
+1|2|3|=
+1|3|1|Amount
+1|3|2|Amount
+1|3|3|=
